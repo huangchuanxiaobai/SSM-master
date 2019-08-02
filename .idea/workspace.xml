@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c8f311b-e935-4665-b9ed-abc03bd79de3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SSM_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SSM_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_regexp_jakarta_regexp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/Interceptor/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/Interceptor/Myinterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/aop/AESAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/controller/AjaxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/controller/BackstageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/controller/GagController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/controller/GoodController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/controller/ScoreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/dao/GagDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/dao/GoodClassifyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/dao/GoodDetailsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/dao/LuceneDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/dao/ScoreDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/dto/DTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/entity/CfMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/entity/Gag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/entity/GoodClassify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/entity/GoodDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/entity/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/service/GagService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/service/GoodService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/service/JavaMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/service/JedisClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/service/ParseExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/service/ScoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/GagServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/GoodServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/JedisClientSingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/ParseExcelImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/ScoreServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/test/GoodIndexAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/test/LuceneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/test/LuceneUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/test/MyBatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/test/RankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/test/TestLuceneIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/AuthUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/EmailServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/EmailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/EmailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/ExportBeanExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/ExportMapExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/GoodDetailsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/JXLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/JavaMailCreateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/JavaMailSendTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/JavaWebToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/PoiExportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/SynonymAnalyzerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/message/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/message/MessageServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/message/MessageServiceSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzhu/utils/message/MessageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ext_stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/GagMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodClassifyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodDetailsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ScoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mydict.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-aop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-jedis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/synonyms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/doExcel.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/testajax.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/IKAnalyzer2012FF_u1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/fastclick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-2.2.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/source/commonexport.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/source/plan.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/source/plan.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/source/导出的文件名.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/Interceptor/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/Interceptor/Myinterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/aop/AESAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/controller/AjaxController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/controller/BackstageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/controller/GagController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/controller/GoodController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/controller/ScoreController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/dao/GagDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/dao/GoodClassifyDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/dao/GoodDetailsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/dao/LuceneDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/dao/ScoreDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/dto/DTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/entity/CfMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/entity/Gag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/entity/GoodClassify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/entity/GoodDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/entity/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/service/GagService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/service/GoodService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/service/JavaMail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/service/JedisClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/service/ParseExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/service/ScoreService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/serviceImpl/GagServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/serviceImpl/GoodServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/serviceImpl/JedisClientSingle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/serviceImpl/ParseExcelImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/serviceImpl/ScoreServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/serviceImpl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/test/GoodIndexAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/test/LuceneTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/test/LuceneUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/test/MyBatisTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/test/RankTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/test/TestLuceneIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/AuthUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/ConfigReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/CookieUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailServiceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailServiceImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailTest$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailTest$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailTest$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailTest$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/EmailTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/ExportBeanExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/ExportMapExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/GoodDetailsUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/JXLTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/JavaMailCreateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/JavaMailSendTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/JavaWebToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/JsonUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/PoiExportTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/SynonymAnalyzerUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/message/MessageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/message/MessageServiceFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/message/MessageServiceFactory$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/message/MessageServiceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/message/MessageServiceSupport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/fuzhu/utils/message/MessageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/ext_stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/mapper/GagMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/mapper/GoodClassifyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/mapper/GoodDetailsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/mapper/ScoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/mydict.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/spring/spring-aop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/spring/spring-jedis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/spring/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/synonyms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/jsp/doExcel.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/jsp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/jsp/testajax.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/IKAnalyzer2012FF_u1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/aspectjrt-1.6.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/aspectjweaver-1.6.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-collections-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-collections4-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-httpclient-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-lang3-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-pool2-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/curvesapi-1.04.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/druid-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/fastjson-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jackson-core-2.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jackson-databind-2.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jakarta-regexp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jedis-2.7.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jjwt-0.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/junit-4.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jxl-2.6.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/log4j-1.2.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/logback-classic-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/logback-core-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/lucene-analyzers-common-4.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/lucene-core-4.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/lucene-highlighter-4.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/lucene-memory-4.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/lucene-queries-4.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/lucene-queryparser-4.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/lucene-sandbox-4.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mail-1.4.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mybatis-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mybatis-spring-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mysql-connector-java-5.1.37.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/poi-3.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/poi-ooxml-3.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/poi-ooxml-schemas-3.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/slf4j-api-1.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-aop-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-beans-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-context-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-core-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-expression-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-jdbc-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-test-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-tx-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-web-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-webmvc-4.1.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/xmlbeans-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/js/fastclick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/js/jquery-2.2.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/source/commonexport.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/source/plan.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/source/plan.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/source/导出的文件名.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/uploadExcel/plan.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/uploadExcel/plan.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/uploadExcel/促销计划.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SSM/uploadExcel/商品列表.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/Interceptor/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/Interceptor/Myinterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/aop/AESAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/controller/AjaxController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/controller/BackstageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/controller/GagController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/controller/GoodController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/controller/ScoreController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/dao/GagDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/dao/GoodClassifyDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/dao/GoodDetailsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/dao/LuceneDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/dao/ScoreDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/dto/DTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/entity/CfMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/entity/Gag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/entity/GoodClassify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/entity/GoodDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/entity/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/service/GagService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/service/GoodService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/service/JavaMail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/service/JedisClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/service/ParseExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/service/ScoreService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/serviceImpl/GagServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/serviceImpl/GoodServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/serviceImpl/JedisClientSingle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/serviceImpl/ParseExcelImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/serviceImpl/ScoreServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/serviceImpl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/test/GoodIndexAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/test/LuceneTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/test/LuceneUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/test/MyBatisTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/test/RankTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/test/TestLuceneIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/AuthUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/ConfigReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/CookieUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailServiceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailServiceImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailTest$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailTest$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailTest$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailTest$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/EmailTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/ExportBeanExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/ExportMapExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/GoodDetailsUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/JXLTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/JavaMailCreateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/JavaMailSendTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/JavaWebToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/JsonUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/PoiExportTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/SynonymAnalyzerUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/message/MessageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/message/MessageServiceFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/message/MessageServiceFactory$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/message/MessageServiceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/message/MessageServiceSupport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fuzhu/utils/message/MessageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ext_stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/GagMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/GoodClassifyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/GoodDetailsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ScoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mydict.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-aop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-jedis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/synonyms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/《使用前必读！》.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/商品的数据库.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺便复习数据库手动sql.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/（版本1）ssm+redis.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/（版本2）ssm+redis+lucene（有商品表的版本--对应第二篇博客的时候）.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/（版本3）2017.5.27-有报表的测试数据版本.sql" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="64" column="55" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/JedisClientSingle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2240">
+              <caret line="125" column="25" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/controller/ScoreController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/service/ScoreService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/ScoreServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>updateScore</find>
+      <find>tok</find>
+      <find>fileupload</find>
+      <find>findUserByProvince</find>
+      <find>location</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\java\ideaWork\SSM-master</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fuzhu/controller/AjaxController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fuzhu/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/generator.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/testajax.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/JedisClientSingle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/ScoreServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SSM-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSM-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-master" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\IDEA\workplace\SSM\src\main\webapp\WEB-INF\lib" />
+      <recent name="I:\IDEA\workplace\SSM\src\main\resources" />
+      <recent name="I:\IDEA\workplace\SSM\src\main\webapp\WEB-INF\jsp" />
+      <recent name="I:\IDEA\workplace\SSM\src\main\webapp\source" />
+      <recent name="I:\IDEA\workplace\SSM\src\main\resources\spring" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.generator">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SSM:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SSM_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64478" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSM:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c8f311b-e935-4665-b9ed-abc03bd79de3" name="Default" comment="" />
+      <created>1503933046415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503933046415</updated>
+      <workItem from="1503933047568" duration="813000" />
+      <workItem from="1503934005087" duration="2677000" />
+      <workItem from="1504006236859" duration="679000" />
+      <workItem from="1504017347282" duration="59000" />
+      <workItem from="1507621540341" duration="900000" />
+      <workItem from="1507771586717" duration="42000" />
+      <workItem from="1507799691257" duration="404000" />
+      <workItem from="1508294253831" duration="794000" />
+      <workItem from="1508295664093" duration="161000" />
+      <workItem from="1508720860506" duration="20000" />
+      <workItem from="1509155866636" duration="313000" />
+      <workItem from="1509880457709" duration="671000" />
+      <workItem from="1509933211605" duration="110000" />
+      <workItem from="1511875072432" duration="2878000" />
+      <workItem from="1511944076157" duration="3409000" />
+      <workItem from="1512299900538" duration="34000" />
+      <workItem from="1512542661293" duration="5271000" />
+      <workItem from="1515488628198" duration="332000" />
+      <workItem from="1515489313928" duration="875000" />
+      <workItem from="1516608956542" duration="49000" />
+      <workItem from="1564706823029" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21089000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16709845" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4540728" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3289256" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289256" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="JRebel Setup Guide" weight="0.32966322" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.45902884" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4540728" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3289256" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289256" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/service/JedisClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/utils/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/utils/message/MessageServiceSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/dto/DTO.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/utils/message/MessageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-jedis.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/aop/AESAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/entity/Gag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java-yuyanxuexi/java_home/src.zip!/java/util/concurrent/Executors.java" />
+    <entry file="jar://E:/java-yuyanxuexi/java_home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+    <entry file="jar://E:/java-yuyanxuexi/java_home/src.zip!/java/util/concurrent/AbstractExecutorService.java" />
+    <entry file="jar://E:/java-yuyanxuexi/java_home/src.zip!/java/util/concurrent/ExecutorService.java" />
+    <entry file="jar://E:/java-yuyanxuexi/java_home/src.zip!/java/util/concurrent/Executor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/utils/EmailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GagMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GoodDetailsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-aop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ScoreMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1491651966890" expanded="true" signature="284:381" ph="INSERT INTO score" />
+            <marker date="1491651966890" expanded="true" signature="468:511" ph="SELECT * FRO... score" />
+            <marker date="1491651966890" expanded="true" signature="599:732" ph="SELECT * FRO... score" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/dao/GoodDetailsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generator.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/utils/JavaWebToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/controller/GoodController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/ParseExcelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="94" column="74" selection-start-line="94" selection-start-column="74" selection-end-line="94" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/GoodServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="44" column="55" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/GagServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="173" column="15" selection-start-line="173" selection-start-column="15" selection-end-line="173" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/testajax.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="64" column="55" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/JedisClientSingle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2240">
+          <caret line="125" column="25" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/controller/ScoreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/service/ScoreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/controller/AjaxController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="60" column="41" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/顺便复习数据库手动sql.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/（版本3）2017.5.27-有报表的测试数据版本.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="217" column="39" lean-forward="true" selection-start-line="217" selection-start-column="39" selection-end-line="217" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/（版本2）ssm+redis+lucene（有商品表的版本--对应第二篇博客的时候）.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2916" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/（版本1）ssm+redis.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1356">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fuzhu/serviceImpl/ScoreServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SSM:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|SSM</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
